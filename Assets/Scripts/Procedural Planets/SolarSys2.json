@@ -1,0 +1,41 @@
+{
+  "sun": {
+    "name": "Sun",
+    "size": 5.0,
+    "color": "#FFD700"
+  },
+  "planets": [
+    {
+      "name": "Terra",
+      "type": "terrestrial",
+      "size": 1.0,
+      "distanceFromSun": 10.0,
+      "orbitalSpeed": 20.0,
+      "orbitTiltAngle": 0.0
+    },
+    {
+      "name": "Inferna",
+      "type": "lava",
+      "size": 0.8,
+      "distanceFromSun": 7.0,
+      "orbitalSpeed": 35.0,
+      "orbitTiltAngle": 5.0
+    },
+{
+      "name": "Glacius",
+      "type": "ice",
+      "size": 1.2,
+      "distanceFromSun": 14.0,
+      "orbitalSpeed": 15.0,
+      "orbitTiltAngle": -3.0
+    },
+    {
+      "name": "Titanor",
+      "type": "gas_giant",
+      "size": 2.0,
+      "distanceFromSun": 20.0,
+      "orbitalSpeed": 10.0,
+      "orbitTiltAngle": 12.0
+    }
+  ]
+}
