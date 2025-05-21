@@ -7,7 +7,7 @@ A casual Spaceship sim game inspired from No man's sky. Orginally an experiment 
 > Solar System - Procedural Solar System from Json file.
 > Shooting Mechanics - Shoot asteriods.
 
-#Future Goals
+# Future Goals
 > Mining System - Mine Asteriods for minerals.
 > Enemy Ai - Other Ships.
 > Gravity - Planets have gravitational pull.
